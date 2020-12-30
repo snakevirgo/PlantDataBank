@@ -1,6 +1,6 @@
 ## PlantDataBank
 Full Stack Web Development ~ Final Project Fall 2020
-Authors: Iris Li, Yufei Tao, Liam Rotchford
+Authors: Yan Li, Yufei Tao, Liam Rotchford
 
 ### Project Concept:
 
